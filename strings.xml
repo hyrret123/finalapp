@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- general -->
+    <string name="app_name">Geo-quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_image_description"></string>
+    <string name="tab_image_description"></string>
+    <string name="text_blank"></string>
+    <string name="data_not_exist"></string>
+    <string name="please_wait"></string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">YES</string>
+
+    <!-- Classisc question -->
+    <string name="classics_title">sample</string>
+    <string name="classics_show_answer">Show Answer</string>
+    <string name="classics_not_show_answer">Hide Answer</string>
+    <!-- Record -->
+    <string name="clear_all_record">Clear All Record</string>
+    <string name="record_title">Previous Attempt</string>
+    <string name="btn_clear_record">Clear All Record</string>
+    <string name="text_record_times">times</string>
+    <string name="text_record_datatime">data</string>
+    <string name="record_times">the</string>
+    <string name="record_exam">th attempt</string>
+    <string name="record_score">marks</string>
+    <string name="details_title">detail</string>
+    <!-- DetailsRecord -->
+    <string name="clear_record">Clear Record</string>
+    <string name="detail_this_exam">Result</string>
+    <string name="detail_this_record"></string>
+    <string name="detail_datiqingkuang">Detail</string>
+    <string name="detail_text_date">Date:  </string>
+    <string name="recent_score">Recent Attempts: </string>
+    <string name="detail_text_usetime">Time Spent: </string>
+    <string name="detail_allaswer">Answered: </string>
+    <string name="detail_total"></string>
+    <string name="detail_answer">Questions</string>
+    <string name="detail_right">Correct: </string>
+    <string name="detail_wrong">Wrong: </string>
+    <string name="detail_correct">Percentage: </string>
+    <string name="detail_qw">%</string>
+    <string name="detail_text_score">Score: </string>
+    <string name="detail_point"> Points</string>
+    <!-- Weclome -->
+    <string name="welcome">Welcome to geo-quiz</string>
+
+    <!-- MainTab -->
+    <string-array name="main_title">
+        <item name="exam">Start Exam</item>
+    </string-array>
+    <!-- stats -->
+    <string name="statistics_topic">Practice</string>
+    <string name="history_top">Ranking</string>
+    <string name="statistics_test">Stats</string>
+    <string name="statistics_zero_test">No record</string>
+
+    <string-array name="statistics_status">
+        <item name="statistics_undo">passed</item>
+        <item name="statistics_right_always"> 100% excellent</item>
+        <item name="statistics_right_often"> good </item>
+        <item name="statistics_wrong_always"> fail </item>
+        <item name="statistics_wrong_often"> pass </item>
+    </string-array>
+    <string-array name="statistics_test_rate">
+        <item name="statistics_test_best"> 100% </item>
+        <item name="statistics_test_better"> 80%-100% </item>
+        <item name="statistics_test_justsoso"> 60%-80% </item>
+        <item name="statistics_test_bad"> 40%-60% </item>
+        <item name="statistics_test_worse"> 20%-40% </item>
+        <item name="statistics_test_worst"> less than 20% </item>
+    </string-array>
+
+    <string name="main_exit_prompt"> press quit button again </string>
+
+    <!-- Topic -->
+    <string-array name="topic_title">
+        <item name="exam_sequence">sequence practice</item>
+        <item name="exam_random">random practice</item>
+        <item name="practice_test">test</item>
+    </string-array>
+
+    <string name="topic_last_question">This is the last question</string>
+    <string name="topic_first_question">This is the first question</string>
+    <string name="topic_preTopic">Check Answer</string>
+    <string name="topic_nextTopic">Next</string>
+    <string name="topic_answer_show">Check Answer</string>
+    <string name="topic_answer_hide"></string>
+    <string name="topic_seek">Jump To</string>
+    <string name="topic_del_wrong"></string>
+    <string name="topic_add_wrong"></string>
+    <string name="topic_exit_exam">Hand in the paper？</string>
+    <string name="topic_test_submit"> hand in </string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="user_password">password：</string>
+    <string name="qsrmm">password</string>
+    <string name="qsryhm">user name</string>
+    <string name="user_name">user: </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+</resources>
